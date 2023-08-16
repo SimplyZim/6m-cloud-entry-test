@@ -56,9 +56,14 @@ Implement a bash script that does the follow:
 1. Loop through the array and print each element.
 
 ```sh
-string = "one,two,three"
-array = string.split(",")
-print(array)
+#!/bin/bash
+
+string="one,two,three"
+IFS=',' read -ra array <<< "$string"
+
+for element in "${array[@]}"; do
+    echo "$element"
+done
 
 ```
 
