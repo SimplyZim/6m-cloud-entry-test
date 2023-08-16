@@ -47,6 +47,7 @@ What is the command to copy a directory from `~/my_project` to `/etc/projects`?
 ```sh
 xcopy ~/my_project ~/etc/projects /s /e /h
 ```
+
 ---
 
 **Question 3 - Shell Scripting**
@@ -64,7 +65,6 @@ IFS=',' read -ra array <<< "$string"
 for element in "${array[@]}"; do
     echo "$element"
 done
-
 ```
 
 ---
