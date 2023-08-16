@@ -35,7 +35,7 @@ Please attempt the solve the problems described:
 What is the Bash command to discover the IP Address of `www.skillsunion.com`?
 
 ```sh
-# ping www.skillsunion.com
+ping www.skillsunion.com
 ```
 
 ---
@@ -45,7 +45,7 @@ What is the Bash command to discover the IP Address of `www.skillsunion.com`?
 What is the command to copy a directory from `~/my_project` to `/etc/projects`?
 
 ```sh
-# Answer here
+xcopy ~/my_project ~/etc/projects /s /e /h
 ```
 ---
 
