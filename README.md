@@ -80,8 +80,7 @@ Use [draw.io](draw.io) to draw a system architecture diagram as described below:
 - The database must not be connected to the internet gateway.
 
 Share the link to your image of diagram.
-
-https://drive.google.com/file/d/1UYTpopi_jL_1dSj4mvIhhVPmKToQcF3B/view?usp=drive_link
+https://drive.google.com/file/d/1V6q8nwJ0t9ByG8BGqg0LldcZ19MSfuO6/view?usp=drive_link
 ---
 
 **Question 5 - System Error Management**
