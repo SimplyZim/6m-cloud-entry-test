@@ -102,9 +102,9 @@ D - The principle of performance is not applied.
 *Q5B: What do you suggest could be done to improve the situation?*
 
 ```
-D
+Answer is D. Alan should review and monitor on regular basis in order to prevent errors occurance.
 ```
-Alan should review and monitor on regular basis in order to prevent errors
+
 ---
 
 END
